@@ -811,3 +811,5 @@ M-VAVE and SMK25II are product names belonging to their respective owners.
 
 This repository is not an official M-VAVE project.
 
+# Blog
+https://www.actionoise.com/synth.html#articolo8
