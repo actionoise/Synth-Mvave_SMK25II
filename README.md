@@ -659,7 +659,7 @@ A first demonstration of the Raspberry Pi version running with the M-VAVE SMK25I
 
 **YouTube demonstration:**
 
-VIDEO_LINK_HERE
+https://www.youtube.com/watch?v=yLvJJSMwneE
 
 The video shows the project running on real hardware and demonstrates some of the custom synth, sampling, looping and MIDI functions.
 
