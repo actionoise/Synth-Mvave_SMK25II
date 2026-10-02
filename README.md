@@ -801,19 +801,7 @@ More experimental platforms may be added in the future.
 
 ---
 
-# License
 
-Choose and add the license that best fits your project.
-
-For example:
-
-```text
-MIT License
-```
-
-or another license depending on how you want the code to be reused.
-
----
 
 # Notes
 
